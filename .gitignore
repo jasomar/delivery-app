@@ -22,7 +22,7 @@ Desktop.ini
 
 # Build / dist
 dist/
-build/
+
 
 # Environment files
 .env
